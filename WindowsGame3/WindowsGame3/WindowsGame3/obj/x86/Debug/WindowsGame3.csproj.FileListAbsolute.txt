@@ -1,0 +1,56 @@
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csproj.CoreCompileInputs.cache
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csproj.CopyComplete
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\grass.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\brick.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\moinho.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\wood.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\tree.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\mountain.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\mar.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Effects\MarEffect.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\plano.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\moinho2.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\brick2.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\tree2.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\wood2.xnb
+C:\Users\phsor\source\repos\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\snow.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\grass.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\moinho.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\brick.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\wood.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\tree.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\mountain.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\mar.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\plano.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\moinho2.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\brick2.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\tree2.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\wood2.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\snow.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Effects\MarEffect.xnb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb

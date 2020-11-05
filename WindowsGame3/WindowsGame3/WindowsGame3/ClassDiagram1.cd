@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsGame3.Game1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEQAEEAAAsgAAwAAAAAAAAQIAAAAAAkAAAQAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Camera" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAEQAAACCAAIACIAAAIAAAAAAAIQAAAQABAgRAAAA=</HashCode>
+      <FileName>Objects\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Screen" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABABARAAAAAAAAAAEBAAAQ=</HashCode>
+      <FileName>Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Helice" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAACAAAAAgAAAAAAAAAAAAAAAAAAAABAAEAAAAA=</HashCode>
+      <FileName>Objects\Helice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.TransformHelice" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAIAAAAAAAAQAAAAgAEABAAAA=</HashCode>
+      <FileName>Objects\TransformHelice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Casa" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAHAACAAgAAgAAAAAAIAAgAAAAAAAAAADAEEAAAAA=</HashCode>
+      <FileName>Objects\Casa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Moinho" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAACAAAAAgAAAAAAAAAAAAAAAAAAAABAAEAAAAA=</HashCode>
+      <FileName>Objects\Moinho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.TransformMoinho" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAIAAAAAABAAAAAIAAAABAAEg=</HashCode>
+      <FileName>Objects\TransformMoinho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Textures">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEGCACCgAAAEgAAAAAAAAAQAAAAAAAAAAAgAQAAAgA=</HashCode>
+      <FileName>Objects\Textures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.TreeList">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAgAAAgAEAAAAIAAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\TreeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Tree">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGEBAAgIAAgAACQCAAAAAAEAAAgAIAABAAAABAAA=</HashCode>
+      <FileName>Objects\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame3.Mar">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBWAAAAAAAAgAACIAAIAACQAAAAwAIAAAAAEAAEAA=</HashCode>
+      <FileName>Objects\Mar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\grass.jpg</Source>
+      <Name>Textures\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\grass.xnb</Output>
+      <Time>2018-05-24T20:59:22.0912864-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\moinho.jpg</Source>
+      <Name>Textures\moinho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\moinho.xnb</Output>
+      <Time>2018-05-24T20:47:20.2220015-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\brick.jpg</Source>
+      <Name>Textures\brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\brick.xnb</Output>
+      <Time>2018-05-24T20:46:08.4649531-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wood.jpg</Source>
+      <Name>Textures\wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\wood.xnb</Output>
+      <Time>2018-05-24T20:47:49.1200179-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tree.png</Source>
+      <Name>Textures\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\tree.xnb</Output>
+      <Time>2018-05-11T03:24:45.8091745-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mountain.png</Source>
+      <Name>Textures\mountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\mountain.xnb</Output>
+      <Time>2018-05-24T20:48:34.7266793-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mar.png</Source>
+      <Name>Textures\mar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\mar.xnb</Output>
+      <Time>2018-05-13T20:19:34.0454483-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\plano.png</Source>
+      <Name>Textures\plano</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\plano.xnb</Output>
+      <Time>2018-05-24T20:42:23.479443-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\black.png</Source>
+      <Name>Textures\black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\black.xnb</Output>
+      <Time>2018-05-15T17:18:38.2006259-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\moinho2.jpg</Source>
+      <Name>Textures\moinho2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\moinho2.xnb</Output>
+      <Time>2018-05-24T23:32:26.8479323-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\brick2.jpg</Source>
+      <Name>Textures\brick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\brick2.xnb</Output>
+      <Time>2018-05-24T23:37:28.5100576-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tree2.png</Source>
+      <Name>Textures\tree2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\tree2.xnb</Output>
+      <Time>2018-05-24T21:59:48.8875303-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wood2.jpg</Source>
+      <Name>Textures\wood2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\wood2.xnb</Output>
+      <Time>2018-05-24T23:39:12.9026228-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\snow.png</Source>
+      <Name>Textures\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Textures\snow.xnb</Output>
+      <Time>2018-05-24T22:03:06.1263797-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Effect1.fx</Source>
+      <Name>Effects\Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Effects\Effect1.xnb</Output>
+      <Time>2018-05-24T22:28:35.2951126-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\MarEffect.fx</Source>
+      <Name>Effects\MarEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Effects\MarEffect.xnb</Output>
+      <Time>2018-05-13T21:10:16.5068176-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Usuário\Desktop\Programação J3D\Mundo10\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-19T00:27:11.2321409-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
